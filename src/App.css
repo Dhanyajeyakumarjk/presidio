@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.home{
+  background-image: url(/public/apartmentt.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sign{
+  background-image: url(/public/apart.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.buyer{
+  background-image: url(/public/bghome.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
